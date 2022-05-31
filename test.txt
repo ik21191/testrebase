@@ -3,3 +3,4 @@ This is the second line.
 This is the third line in master branch.
 Change in v1 branch.
 2nd change in v1 branch.
+Change in master branch.
